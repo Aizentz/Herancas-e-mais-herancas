@@ -1,0 +1,1 @@
+esse foi um projeto rápido para consolidar meus aprendizados sobre herança. cada classe constitui seus próprios métodos sobrescritos a depender do contexto (a exemplo cat e dog que herdam earthpet mas com diferentes métodos customizados)
